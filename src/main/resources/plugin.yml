@@ -1,0 +1,8 @@
+name: HubNoChat
+version: '1.0.0-OmxRealm'
+main: org.dw363.HubNoChat
+api-version: '1.21'
+load: STARTUP
+authors: [dw363]
+description: Плагин, запрещающий писать игрокам, кроме тех кто добавлен в конфиг, создано специально для сервера OmxRealm. Project The OMX
+website: https://github.com/Hacker123ter
