@@ -6,12 +6,12 @@
 
     <groupId>org.dw363</groupId>
     <artifactId>HubNoChat</artifactId>
-    <version>1.0.0-OmxRealm</version>
+    <version>1.0.1-OmxRealm</version>
     <packaging>jar</packaging>
 
     <name>HubNoChat</name>
 
-    <description>Плагин, запрещающий писать игрокам, кроме тех кто добавлен в конфиг, создано специально для сервера
+    <description>Плагин, запрещающий писать игрокам, кроме тех кто добавлен в конфиг. Создано специально для сервера
         OmxRealm. Project The OMX
     </description>
     <properties>
